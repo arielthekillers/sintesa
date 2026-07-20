@@ -1,0 +1,4 @@
+- [x] Rewrite about.php with new hero section and typography
+- [x] Add Legalitas section (4 grid cards)
+- [x] Add new Contact & Location section with Google Maps iframe
+- [x] Verify responsive layout

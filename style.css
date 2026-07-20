@@ -1,0 +1,48 @@
+:root {
+    --color-primary: 23 185 120;
+    --color-secondary: 248 143 194;
+    --color-green: 140 214 106;
+    --color-bg : 255 255 255; 
+    --color-border : 255 255 255; 
+    --color-box: 255 255 255;
+    --box-border: 229 231 235;
+    --box-sd: 226 232 240 / 0.5;
+}
+  
+.dark {
+    --color-bg: 17 24 39;
+    --color-box: 17 26 62;
+    --box-border: 243 244 246 / 0.1;
+    --box-sd: transparent;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: rgb(var(--color-bg));
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+    overflow-x: hidden;
+}
+
+.invisible-scroll {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    scroll-padding-left: 10px;
+    scroll-padding-right: 10px;
+}
+
+.invisible-scroll::-webkit-scrollbar,
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.hide-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
