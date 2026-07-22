@@ -48,7 +48,7 @@
           <!--[-->
           <nav class="flex items-center justify-between w-full relative">
             <div class="inline-flex relative bg-inherit">
-              <a aria-current="page" href="index.php"
+              <a aria-current="page" href="./"
                 class="router-link-active router-link-exact-active flex items-center gap-2">
                 <img src="images/logo/logo.png" alt="Sintesa Corp Logo" class="h-10 w-auto" />
                 <span
@@ -60,19 +60,19 @@
               <ul
                 class="text-gray-700 dark:text-gray-100 w-full flex lg:items-center gap-y-4 lg:gap-x-8 flex-col lg:flex-row">
                 <li class="lg:inline-flex">
-                  <a aria-current="page" href="index.php"
+                  <a aria-current="page" href="./"
                     class="router-link-active router-link-exact-active lg:inline-flex transition hover:text-primary ease-linear text-lg">Lounge</a>
                 </li>
                 <li class="lg:inline-flex">
-                  <a href="about.php"
+                  <a href="about"
                     class="px-2 md:px-0 py-2.5 transition-colors text-lg md:text-base hover:text-primary">Kenalan</a>
                 </li>
                 <li class="lg:inline-flex">
-                  <a href="project.php"
+                  <a href="project"
                     class="px-2 md:px-0 py-2.5 transition-colors text-lg md:text-base hover:text-primary">Karya Kita</a>
                 </li>
                 <li class="lg:inline-flex">
-                  <a href="news.php"
+                  <a href="news"
                     class="px-2 md:px-0 py-2.5 transition-colors text-lg md:text-base hover:text-primary">Update
                     Seru</a>
                 </li>

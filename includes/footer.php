@@ -7,7 +7,7 @@
             <!--[-->
               <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 gap-y-6 md:gap-8 md:gap-y-10">
                 <div class="lg:col-span-1">
-                  <a href="index.php" class="flex items-center gap-2">
+                  <a href="./" class="flex items-center gap-2">
                     <img src="images/logo/logo.png" alt="Sintesa Corp Logo" class="h-10 w-auto" />
                     <span class="text-2xl font-extrabold bg-gradient-to-r from-[#154b77] to-primary bg-clip-text text-transparent dark:from-blue-400 dark:to-primary tracking-tight">Sintesa Corp</span>
                   </a>
@@ -27,10 +27,10 @@
                 <div>
                   <h2 class="text-xl font-bold text-gray-700 dark:text-white">Perusahaan</h2>
                   <ul class="pt-3 md:pt-6 space-y-1.5 md:space-y-3">
-                    <li><a href="about.php" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Kenalan</a></li>
-                    <li><a href="project.php" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Karya Kita</a></li>
-                    <li><a href="news.php" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Update Seru</a></li>
-                    <li><a href="contact.php" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Sapa Kami</a></li>
+                    <li><a href="about" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Kenalan</a></li>
+                    <li><a href="project" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Karya Kita</a></li>
+                    <li><a href="news" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Update Seru</a></li>
+                    <li><a href="contact" class="transition text-gray-600 dark:text-gray-300 hover:!text-primary">Sapa Kami</a></li>
                   </ul>
                 </div>
                 <div>

@@ -23,7 +23,7 @@
           <h2 class="text-white font-bold text-xl md:text-2xl mb-2">
             Project Title <?php echo $index + 1; ?>
           </h2>
-          <a href="project-detail.php" class="inline-flex items-center text-gray-300 hover:text-white font-medium text-sm">
+          <a href="project-detail" class="inline-flex items-center text-gray-300 hover:text-white font-medium text-sm">
             Lihat Detail
             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
           </a>

@@ -2,7 +2,7 @@
 
 <section class="pt-32 pb-20 bg-white dark:bg-body min-h-screen">
   <div class="w-full px-5 sm:px-8 md:px-12 lg:px-8 max-w-screen-md mx-auto">
-    <a href="news.php" class="inline-flex items-center text-primary hover:underline mb-8">
+    <a href="news" class="inline-flex items-center text-primary hover:underline mb-8">
       <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
       Back to News
     </a>

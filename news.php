@@ -17,7 +17,7 @@
           <h2 class="text-gray-800 dark:text-white font-semibold text-lg md:text-xl line-clamp-2 mb-4">
             How Sintesa Corp is revolutionizing the industry with new IT Solutions
           </h2>
-          <a href="news-detail.php" class="inline-flex items-center text-primary hover:underline font-medium">
+          <a href="news-detail" class="inline-flex items-center text-primary hover:underline font-medium">
             Baca Artikel
             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
           </a>

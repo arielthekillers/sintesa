@@ -69,7 +69,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     class="flex justify-center lg:justify-start gap-3 pt-9 w-full"
                   >
                     <a
-                      href="about.php"
+                      href="about"
                       class="px-8 md:px-10 py-3 rounded-full relative group w-max flex justify-center"
                       ><span
                         class="absolute inset-0 rounded-full group-hover:scale-105 origin-center transition-all ease-in-out bg-transparent border-2 border-primary group-hover:!bg-primary group-active:!bg-primary"
@@ -184,7 +184,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                   <h2 class="text-2xl md:text-3xl text-gray-800 dark:text-white font-bold">Update Seru</h2>
                 </div>
                 <div class="flex items-center min-w-max gap-5">
-                  <a href="news.php" class="px-6 md:px-7 py-3 rounded-full relative group">
+                  <a href="news" class="px-6 md:px-7 py-3 rounded-full relative group">
                     <span class="absolute inset-0 rounded-full group-hover:scale-105 origin-center transition-all ease-in-out bg-primary border-2 border-transparent"></span>
                     <span class="relative flex items-center justify-center text-white">Explore more</span>
                   </a>
@@ -199,7 +199,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="text-white font-semibold text-lg line-clamp-2 mb-3">
                       How to hack a website with Html in simple way
                     </h2>
-                    <a href="news.php" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
+                    <a href="news" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
                       <span class="p-1.5 rounded-full bg-primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-3 h-3"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd" /></svg></span>
                       Read article
                     </a>
@@ -213,7 +213,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="text-white font-semibold text-lg line-clamp-2 mb-3">
                       5 Principales you must know for writting clear code
                     </h2>
-                    <a href="news.php" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
+                    <a href="news" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
                       <span class="p-1.5 rounded-full bg-primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-3 h-3"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd" /></svg></span>
                       Read article
                     </a>
@@ -227,7 +227,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="text-white font-semibold text-lg line-clamp-2 mb-3">
                       Make you website request secure than you could mind
                     </h2>
-                    <a href="news.php" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
+                    <a href="news" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
                       <span class="p-1.5 rounded-full bg-primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-3 h-3"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd" /></svg></span>
                       Read article
                     </a>
@@ -241,7 +241,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="text-white font-semibold text-lg line-clamp-2 mb-3">
                       How to get started with desktop developpement
                     </h2>
-                    <a href="news.php" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
+                    <a href="news" class="flex items-center text-white rounded-full p-1 pr-3 gap-2 text-sm border border-gray-100/30 w-max hover:bg-white/10 transition">
                       <span class="p-1.5 rounded-full bg-primary"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-3 h-3"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd" /></svg></span>
                       Read article
                     </a>
@@ -259,7 +259,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                   <h2 class="text-2xl md:text-3xl text-gray-800 dark:text-white font-bold">Karya Kita</h2>
                 </div>
                 <div class="flex items-center min-w-max gap-5">
-                  <a href="project.php" class="px-6 md:px-7 py-3 rounded-full relative group">
+                  <a href="project" class="px-6 md:px-7 py-3 rounded-full relative group">
                     <span class="absolute inset-0 rounded-full group-hover:scale-105 origin-center transition-all ease-in-out bg-primary border-2 border-transparent"></span>
                     <span class="relative flex items-center justify-center text-white">See all</span>
                   </a>
@@ -275,7 +275,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="font-semibold text-lg line-clamp-2 text-gray-700 dark:text-white mb-4">
                       Start your journey in SEO
                     </h2>
-                    <a href="project.php" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
+                    <a href="project" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4"><path fill-rule="evenodd" d="M10 2a.75.75 0 01.75.75v7.5a.75.75 0 01-1.5 0v-7.5A.75.75 0 0110 2zM5.22 5.22a.75.75 0 011.06 0 7.5 7.5 0 107.44 0 .75.75 0 111.06-1.06 9 9 0 11-8.92 0 .75.75 0 010 1.06z" clip-rule="evenodd" /></svg> View Detail
                     </a>
                   </div>
@@ -289,7 +289,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="font-semibold text-lg line-clamp-2 text-gray-700 dark:text-white mb-4">
                       Modern Web Architecture
                     </h2>
-                    <a href="project.php" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
+                    <a href="project" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4"><path fill-rule="evenodd" d="M10 2a.75.75 0 01.75.75v7.5a.75.75 0 01-1.5 0v-7.5A.75.75 0 0110 2zM5.22 5.22a.75.75 0 011.06 0 7.5 7.5 0 107.44 0 .75.75 0 111.06-1.06 9 9 0 11-8.92 0 .75.75 0 010 1.06z" clip-rule="evenodd" /></svg> View Detail
                     </a>
                   </div>
@@ -303,7 +303,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="font-semibold text-lg line-clamp-2 text-gray-700 dark:text-white mb-4">
                       Digital Transformation
                     </h2>
-                    <a href="project.php" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
+                    <a href="project" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4"><path fill-rule="evenodd" d="M10 2a.75.75 0 01.75.75v7.5a.75.75 0 01-1.5 0v-7.5A.75.75 0 0110 2zM5.22 5.22a.75.75 0 011.06 0 7.5 7.5 0 107.44 0 .75.75 0 111.06-1.06 9 9 0 11-8.92 0 .75.75 0 010 1.06z" clip-rule="evenodd" /></svg> View Detail
                     </a>
                   </div>
@@ -317,7 +317,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit_cta'])) {
                     <h2 class="font-semibold text-lg line-clamp-2 text-gray-700 dark:text-white mb-4">
                       Cloud Migration Strategy
                     </h2>
-                    <a href="project.php" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
+                    <a href="project" class="flex items-center justify-center gap-2 text-white px-5 py-2.5 bg-primary rounded-full hover:bg-primary/90 transition text-sm">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4"><path fill-rule="evenodd" d="M10 2a.75.75 0 01.75.75v7.5a.75.75 0 01-1.5 0v-7.5A.75.75 0 0110 2zM5.22 5.22a.75.75 0 011.06 0 7.5 7.5 0 107.44 0 .75.75 0 111.06-1.06 9 9 0 11-8.92 0 .75.75 0 010 1.06z" clip-rule="evenodd" /></svg> View Detail
                     </a>
                   </div>
